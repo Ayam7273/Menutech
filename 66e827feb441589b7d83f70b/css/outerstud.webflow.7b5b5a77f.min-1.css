@@ -4182,6 +4182,9 @@ figcaption {
   background-image: url(../66e827feb441589b7d83f961_5-1.webp)
 }
 
+.float-image-child.is-7 {
+  background-image: url("/assets/dummy-img.jpg")
+}
 
 .floating-img-container {
   grid-column-gap: 18rem;
@@ -4928,12 +4931,12 @@ figcaption {
   display: block
 }
 
-/* .connect-content {
+.connect-content {
   grid-column-gap: 1rem;
   grid-row-gap: 1rem;
   align-items: center;
   display: flex
-} */
+}
 
 .address-text {
   flex-direction: column;
@@ -6217,6 +6220,10 @@ figcaption {
 
 .map_info-collection-wrapper {
   margin-top: 1rem
+}
+
+.reviews_map_wrapper {
+  padding-bottom: 6.2rem
 }
 
 .custom-properties {

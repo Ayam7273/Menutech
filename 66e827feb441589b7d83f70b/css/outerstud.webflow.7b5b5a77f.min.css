@@ -4183,7 +4183,7 @@ figcaption {
 }
 
 .float-image-child.is-7 {
-  background-image: url(/assets/Highfashionmu.png)
+  background-image: url(https://cdn.prod.website-files.com/66e827feb441589b7d83f70b/66e827feb441589b7d83f95c_7.webp)
 }
 
 .floating-img-container {
@@ -4931,12 +4931,12 @@ figcaption {
   display: block
 }
 
-/* .connect-content {
+.connect-content {
   grid-column-gap: 1rem;
   grid-row-gap: 1rem;
   align-items: center;
   display: flex
-} */
+}
 
 .address-text {
   flex-direction: column;
@@ -6223,6 +6223,9 @@ figcaption {
   margin-top: 1rem
 }
 
+.reviews_map_wrapper {
+  padding-bottom: 6.2rem
+}
 
 .custom-properties {
   text-overflow: ellipsis;
