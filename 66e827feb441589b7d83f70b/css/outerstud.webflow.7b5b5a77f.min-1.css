@@ -7213,7 +7213,7 @@ figcaption {
 .project-image-hover-koderus {
   z-index: 5;
   object-fit: scale-down;
-  background-image: url(../66ffc6158ecf77bfedc5a7d3_koderus-ss-cover-1.jpg);
+  /* background-image: url('/assets/slow.mp4'); */
   background-position: 50% 0;
   background-size: cover;
   width: 100%;
@@ -7226,7 +7226,7 @@ figcaption {
 .project-image-hover-saltz {
   z-index: 5;
   object-fit: scale-down;
-  background-image: url(../66ff849d336cdaecf43fd27d_Moskup_saltz-1.jpg);
+  background-image: url('/assets/StyledbyLashe.mp4');
   background-position: 50%;
   background-size: cover;
   width: 100%;
