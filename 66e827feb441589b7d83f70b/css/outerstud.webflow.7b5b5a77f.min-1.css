@@ -5711,7 +5711,7 @@ figcaption {
   display: flex
 }
 
-.yellow-link {
+/* .yellow-link {
   background-color: orange;
   border-radius: 100px;
   justify-content: center;
@@ -5719,7 +5719,7 @@ figcaption {
   width: 2.5rem;
   height: 2.5rem;
   display: flex
-}
+} */
 
 .arrow-right {
   width: 1.5rem;
